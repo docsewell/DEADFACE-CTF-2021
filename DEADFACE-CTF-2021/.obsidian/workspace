@@ -7,9 +7,10 @@
         "id": "2c3a94252bdeb437",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Pasted image 20211016064642.png"
+            "file": "Walk Throughs/Reverse Engineering/Cereal Killer 1.md",
+            "mode": "preview"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20211016064642.png",
+                "file": "Walk Throughs/Reverse Engineering/Cereal Killer 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +88,7 @@
   },
   "active": "2c3a94252bdeb437",
   "lastOpenFiles": [
+    "Walk Throughs/Reverse Engineering/Cereal Killer 1.md",
     "Images/Pasted image 20211016064642.png",
     "Traffic Analysis/Luciafer's Fatal Error.md",
     "Traffic Analysis/Luciafer, You Clever Little Devil.md",
@@ -95,7 +97,6 @@
     "Traffic Analysis/The SUM of All FEARS.md",
     "Walk Throughs/Cryptography/The Victims of Lytton Labs.md",
     "Traffic Analysis/Monstrum Ex Machina.md",
-    "Walk Throughs/Stego/Nazi Zombies!!!.md",
-    "Walk Throughs/Reverse Engineering/Decrypting Lytton Labs Cryptoware 2 (AES).md"
+    "Walk Throughs/Stego/Nazi Zombies!!!.md"
   ]
 }
