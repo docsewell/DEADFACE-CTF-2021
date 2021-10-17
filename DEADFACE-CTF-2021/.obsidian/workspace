@@ -7,10 +7,9 @@
         "id": "2c3a94252bdeb437",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Traffic Analysis/Luciafer's Fatal Error.md",
-            "mode": "source"
+            "file": "Pasted image 20211016064642.png"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traffic Analysis/Luciafer's Fatal Error.md",
+                "file": "Pasted image 20211016064642.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +87,7 @@
   },
   "active": "2c3a94252bdeb437",
   "lastOpenFiles": [
+    "Images/Pasted image 20211016064642.png",
     "Traffic Analysis/Luciafer's Fatal Error.md",
     "Traffic Analysis/Luciafer, You Clever Little Devil.md",
     "Untitled.md",
@@ -96,7 +96,6 @@
     "Walk Throughs/Cryptography/The Victims of Lytton Labs.md",
     "Traffic Analysis/Monstrum Ex Machina.md",
     "Walk Throughs/Stego/Nazi Zombies!!!.md",
-    "Walk Throughs/Reverse Engineering/Decrypting Lytton Labs Cryptoware 2 (AES).md",
-    "Walk Throughs/Reverse Engineering/Decrypting Lytton Labs Cryptoware 1 (RC4).md"
+    "Walk Throughs/Reverse Engineering/Decrypting Lytton Labs Cryptoware 2 (AES).md"
   ]
 }
