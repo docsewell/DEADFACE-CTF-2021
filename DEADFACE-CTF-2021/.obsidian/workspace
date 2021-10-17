@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "dc0ec26af4a4c3a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c3a94252bdeb437",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Traffic Analysis/Luciafer's Fatal Error.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d253252b12470a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9917f4fe40195dbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85df323afb34b174",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab42f939f4004940",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 385
+  },
+  "right": {
+    "id": "0dfcad75507eacf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b736f1c3889ed53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99d74106f8c54cf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Traffic Analysis/Luciafer's Fatal Error.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2c3a94252bdeb437",
+  "lastOpenFiles": [
+    "Traffic Analysis/Luciafer's Fatal Error.md",
+    "Traffic Analysis/Luciafer, You Clever Little Devil.md",
+    "Untitled.md",
+    "Traffic Analysis/Untitled.md",
+    "Traffic Analysis/The SUM of All FEARS.md",
+    "Walk Throughs/Cryptography/The Victims of Lytton Labs.md",
+    "Traffic Analysis/Monstrum Ex Machina.md",
+    "Walk Throughs/Stego/Nazi Zombies!!!.md",
+    "Walk Throughs/Reverse Engineering/Decrypting Lytton Labs Cryptoware 2 (AES).md",
+    "Walk Throughs/Reverse Engineering/Decrypting Lytton Labs Cryptoware 1 (RC4).md"
+  ]
+}
